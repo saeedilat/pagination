@@ -1,12 +1,13 @@
 ## a pagination project build with react and react-bootstrap and bootstrap
 
 ## تمرین pagination برای نشان دادن توانایی های حل مسله و problem solver
-
+## همچنین fetch اطلاعات و کار با api ها
 
 
 ## ویژگی ها
 - رابط کاربری مدرن با Bootstrap
 - ساختار کامپوننت محور وقابل توسعه
+- fetch اطلاعات از سایت json placeholder
 
 ## مشاهده آنلاین
 (https://pagination-pied-chi.vercel.app/) 
